@@ -73,6 +73,7 @@ arrayType
 basicType
     : Boolean
     | Integer
+    | Uinteger
     | Number
     | String
     ;
