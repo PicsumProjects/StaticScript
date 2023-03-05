@@ -2,7 +2,7 @@
 
 sudo apt-get -y install clang wget unzip
 
-sudo wget https://github.com/StaticScript/StaticScript/releases/latest/download/staticscript-ubuntu-release.zip
+sudo wget https://github.com/PicsumProjects/StaticScript/releases/latest/download/staticscript-ubuntu-release.zip
 
 sudo unzip staticscript-macos-release.zip
 
