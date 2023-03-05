@@ -8,7 +8,7 @@ if [[ ! $(command -v wget) ]]; then
   brew install wget
 fi
 
-sudo wget https://github.com/StaticScript/StaticScript/releases/latest/download/staticscript-macos-release.zip
+sudo wget https://github.com/PicsumProjects/StaticScript/releases/latest/download/staticscript-macos-release.zip
 
 sudo unzip staticscript-macos-release.zip
 
