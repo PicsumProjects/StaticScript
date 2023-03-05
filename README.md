@@ -4,18 +4,18 @@
 
 StaticScript is a statically typed programming language, syntactically like TypeScript.
 
-![Github Workflow Status](https://img.shields.io/github/workflow/status/StaticScript/StaticScript/Build?style=flat-square)
+![Github Workflow Status](https://img.shields.io/github/workflow/status/PicsumProjects/StaticScript/Build?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-linux--64%20%7C%20macos--64-brightgreen?style=flat-square)
-![License](https://img.shields.io/github/license/StaticScript/StaticScript?style=flat-square)
+![License](https://img.shields.io/github/license/PicsumProjects/StaticScript?style=flat-square)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/StaticScript/StaticScript?style=flat-square&color=brightgreen)
-![GitHub forks](https://img.shields.io/github/forks/StaticScript/StaticScript?style=flat-square&color=brightgreen)
-![GitHub issues](https://img.shields.io/github/issues-raw/StaticScript/StaticScript?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/StaticScript/StaticScript?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/PicsumProjects/StaticScript?style=flat-square&color=brightgreen)
+![GitHub forks](https://img.shields.io/github/forks/PicsumProjects/StaticScript?style=flat-square&color=brightgreen)
+![GitHub issues](https://img.shields.io/github/issues-raw/PicsumProjects/StaticScript?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/PicsumProjects/StaticScript?style=flat-square)
 
-![GitHub Repository Size](https://img.shields.io/github/repo-size/StaticScript/StaticScript?style=flat-square&color=brightgreen)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/StaticScript/StaticScript?style=flat-square&color=brightgreen)
-![GitHub top language](https://img.shields.io/github/languages/top/StaticScript/StaticScript?style=flat-square&color=brightgreen)
+![GitHub Repository Size](https://img.shields.io/github/repo-size/PicsumProjects/StaticScript?style=flat-square&color=brightgreen)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PicsumProjects/StaticScript?style=flat-square&color=brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/PicsumProjects/StaticScript?style=flat-square&color=brightgreen)
 
 English | [简体中文](./README-zh_CN.md)
 
@@ -26,11 +26,11 @@ English | [简体中文](./README-zh_CN.md)
 ### Install on Ubuntu
 
 ```shell
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/StaticScript/StaticScript/master/install-ubuntu.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/PicsumProjects/StaticScript/master/install-ubuntu.sh)"
 ```
 Or
 ```shell
-wget https://raw.githubusercontent.com/StaticScript/StaticScript/master/install-ubuntu.sh
+wget https://raw.githubusercontent.com/PicsumProjects/StaticScript/master/install-ubuntu.sh
 sudo chmod +x install-ubuntu.sh
 sudo /bin/bash install-ubuntu.sh
 ```
@@ -42,11 +42,11 @@ sudo /bin/bash install-ubuntu.sh
 ### Install on macOS
 
 ```shell
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/StaticScript/StaticScript/master/install-macos.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/PicsumProjects/StaticScript/master/install-macos.sh)"
 ```
 Or
 ```shell
-wget https://raw.githubusercontent.com/StaticScript/StaticScript/master/install-macos.sh
+wget https://raw.githubusercontent.com/PicsumProjects/StaticScript/master/install-macos.sh
 sudo chmod +x install-macos.sh
 sudo /bin/bash install-macos.sh
 ```
