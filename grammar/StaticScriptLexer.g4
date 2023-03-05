@@ -9,6 +9,7 @@ options {
 // 关键字
 Boolean:                'boolean';
 Integer:                'int';
+Uinteger:               'uint';
 Number:                 'number';
 String:                 'string';
 Let:                    'let';
